@@ -79,6 +79,7 @@ const Projects = () => {
         >
           Check My Resume
         </a>{" "}
+        . If the link is broken, please contact via @metalsierrabravo6@gmail.com
       </p> 
 
       <CTA buttonText="Contact" buttonLink="/contact">
